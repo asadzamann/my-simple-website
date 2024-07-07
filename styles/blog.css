@@ -2,5 +2,8 @@ div{
     background-color: aqua;
     padding: 10px;
     margin-bottom: 10px;
-   
+}
+.list{
+    font-size: larger;
+    font-weight: 500;
 }
